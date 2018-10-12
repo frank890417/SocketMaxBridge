@@ -6,10 +6,6 @@ use config.json to change target server
 
 ## 1. install nodejs+npm
 
-```
-npm start
-```
-
 ## 2. clone and install project
 
 ```

@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/frank890417/SocketMaxBridge#readme",
   "dependencies": {
-    "osc-min": "^1.1.1"
+    "osc-min": "^1.1.1",
+    "socket.io-client": "^2.1.1"
   }
 }
