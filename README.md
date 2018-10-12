@@ -4,8 +4,22 @@
 
 use config.json to change target server
 
-## to Start the bridge
+## 1. install nodejs+npm
 
 ```
+npm start
+```
+
+## 2. clone and install project
+
+```
+git clone https://github.com/frank890417/SocketMaxBridge.git
+npm install
+```
+
+## 3. Start the bridge
+
+```
+cd SocketMaxBridge
 npm start
 ```
