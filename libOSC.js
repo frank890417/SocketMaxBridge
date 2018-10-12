@@ -1,3 +1,5 @@
+
+var {ByteConverter} = require( "./byteConverter.js")
 var LibOSC = (function(){
     var instantiated;
 
@@ -140,3 +142,5 @@ var LibOSC = (function(){
         }
     }
 })();
+
+module.exports={LibOSC}

@@ -1,0 +1,25 @@
+{
+  "name": "socketmaxbridge",
+  "version": "1.0.0",
+  "description": "## connect maxmsp udp port listening to specific socket.io server",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank890417/SocketMaxBridge.git"
+  },
+  "author": "frank890417",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frank890417/SocketMaxBridge/issues"
+  },
+  "homepage": "https://github.com/frank890417/SocketMaxBridge#readme",
+  "dependencies": {
+    "osc-min": "^1.1.1"
+  }
+}

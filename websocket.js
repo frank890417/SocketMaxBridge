@@ -1,3 +1,6 @@
+
+var io = require ("socket.io-client")
+
 var Websocket = (function(){
 	var instantiated;
 
@@ -6,6 +9,7 @@ var Websocket = (function(){
 		socket.on('connected',function(data){
 			console.log(data.connected);
 		});
+		
 
 		return {
 
@@ -29,3 +33,5 @@ var Websocket = (function(){
 	}
 
 })();
+
+module.exports={Websocket}

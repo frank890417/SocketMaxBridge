@@ -154,3 +154,7 @@ var ByteConverter = (function(){
     }
 
 })();
+
+module.exports={
+    ByteConverter
+}

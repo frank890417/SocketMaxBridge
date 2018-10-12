@@ -1,0 +1,13 @@
+{
+	"target" : {
+		"host": "https://awiclass.monoame.com",
+		"port" : 4040
+	},
+	"udp" : {
+		"port" : 47764,
+		"target" : {
+			"host" : "localhost",
+			"port" : 47763
+		}
+	}
+}
