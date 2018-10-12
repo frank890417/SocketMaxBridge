@@ -7,5 +7,5 @@ use config.json to change target server
 ## to Start the bridge
 
 ```
-node 
+npm start
 ```
